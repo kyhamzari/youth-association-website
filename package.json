@@ -1,0 +1,1 @@
+{"name": "youth-association-website","version": "1.0.0","description": "A modern website for youth association with member management, events, and community features","main": "index.html","scripts": {"start": "python -m http.server 8000","dev": "npx http-server"},"keywords": ["youth","association","website","community","events"],"author": "kyhamzari","license": "MIT"}
